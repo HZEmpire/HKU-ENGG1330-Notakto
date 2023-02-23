@@ -1,3 +1,5 @@
+# Check the current status of the moving
+# 判断当下步骤的状况
 def pan(givenlist,k):
     r=1
     if k==1:
